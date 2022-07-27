@@ -15,16 +15,15 @@ local function check_empty_string(s, o)
     end
 end
 
-
 local colors = {
-    bg = "#212326",
+    bg = "#22262e",
     --primary = "#ebcb8b",
-    primary = "#f0c674",
-    secondary = "#383c40",
-    fg = "#c5c8c6",
-    gray_fg = "#666d74",
-    gray = "#2c2f32",
-    lightfg = "#2e3340",
+    primary = "#ebcb8b",
+    secondary = "#434c5e",
+    fg = "#d8dee9",
+    gray_fg = "#4c566a",
+    gray = "#2e3440",
+    lightfg = "#1e222a",
 }
 
 gls.left[1] = {
